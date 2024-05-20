@@ -1,0 +1,15 @@
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\bin\Debug\net5.0\Karakter Değiştirme.exe
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\bin\Debug\net5.0\Karakter Değiştirme.deps.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\bin\Debug\net5.0\Karakter Değiştirme.runtimeconfig.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\bin\Debug\net5.0\Karakter Değiştirme.runtimeconfig.dev.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\bin\Debug\net5.0\Karakter Değiştirme.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\bin\Debug\net5.0\ref\Karakter Değiştirme.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\bin\Debug\net5.0\Karakter Değiştirme.pdb
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\obj\Debug\net5.0\ref\Karakter Değiştirme.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.pdb
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\04-Karakter Değiştirme\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.genruntimeconfig.cache
